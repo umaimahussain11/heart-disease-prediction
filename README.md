@@ -98,3 +98,26 @@ heart-disease-prediction/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+
+## 📊 Model Performance
+
+Two machine learning classification models were evaluated:
+
+| Model | Accuracy |
+|---|---:|
+| Logistic Regression | 86.89% |
+| Random Forest | 88.52% |
+
+### Random Forest Classification Report
+
+| Metric | Class 0 | Class 1 |
+|---|---:|---:|
+| Precision | 0.93 | 0.84 |
+| Recall | 0.85 | 0.93 |
+| F1-Score | 0.89 | 0.88 |
+
+### Confusion Matrix
+
+```text
+[[28  5]
+ [ 2 26]]
