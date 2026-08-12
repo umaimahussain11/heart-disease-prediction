@@ -2,6 +2,12 @@
 
 A beginner-friendly machine learning project that predicts the likelihood of heart disease using patient health information.
 
+## 🚀 Live Demo
+
+Try the deployed application here:
+
+👉 https://heart-disease-prediction-bkt2gcmjgxppcx7avkytwk.streamlit.app/
+
 ## 📌 Project Overview
 
 This project uses machine learning to classify whether a patient is likely to belong to a lower-risk or higher-risk heart disease category based on medical attributes.
